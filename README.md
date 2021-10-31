@@ -4,11 +4,11 @@
 
 The notebook has three main parts : 
 
-1) Glassdoor reviews scraping using Selenium
+1) *Glassdoor* reviews scraping using *Selenium*
 
-2) Naive Bayes classification for positive and negative reviews recognition
+2) *Naive Bayes* classification for positive and negative reviews recognition
 
-3) Latent Dirichlet Allocation [[1]](#1) for topic modeling (Not a suitable method for this application as mentioned in presentation - as an alternative one should use : *Biterm Topic Model* [[2]](#2)).
+3) *Latent Dirichlet Allocation* [[1]](#1) for topic modeling (Not a suitable method for this application as mentioned in presentation - as an alternative one should use : *Biterm Topic Model* [[2]](#2)).
 
 - To be able to run the scraping part, a *secret.json* file containing the log-in identification is needed.
 
