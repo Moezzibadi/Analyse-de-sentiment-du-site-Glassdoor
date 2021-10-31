@@ -16,6 +16,7 @@ The notebook has three main parts :
 
 ## References
 <a id="1">[1]</a> 
-Dijkstra, E. W. (1968). 
-Go to statement considered harmful. 
-Communications of the ACM, 11(3), 147-148.
+Xiaohui Yan et al. ( 2013). 
+A biterm topic model for short texts
+Proceedings of the 22nd international conference on World Wide Web - Pages 1445–1456.
+https://doi.org/10.1145/2488388.2488514
