@@ -2,7 +2,7 @@
  
  The aim of this project is natural language processing and sentiment analysis applied to scraped reviews from employees. 
 
-The notebook has three main parts : 
+The Jupyter notebook has three main parts : 
 
 1) *Glassdoor* reviews scraping using *Selenium*
 
