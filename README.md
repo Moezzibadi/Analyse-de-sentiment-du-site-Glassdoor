@@ -12,4 +12,4 @@ The notebook has three main parts :
 
 - To be able to run the scraping part a *secret.json* file is needed.
 
-- For extra information you can find the Rmarkdown presentaion here : https://moezzibadi.github.io/Analyse-de-sentiment-du-site-Glassdoor/Proj_gl.html
+- For extra information you can find the Rmarkdown presentaion here (in french) : https://moezzibadi.github.io/Analyse-de-sentiment-du-site-Glassdoor/Proj_gl.html
