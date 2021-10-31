@@ -8,7 +8,7 @@ The notebook has three main parts :
 
 2) Naive Bayes classification for positive and negative reviews recognition
 
-3) Latent Dirichlet Allocation for topic modeling (Not a suitable method for this application as mentioned in presentation - as an alternative one should use : *Biterm Topic Model* [[1]](#1)).
+3) Latent Dirichlet Allocation [[2]](#2) for topic modeling (Not a suitable method for this application as mentioned in presentation - as an alternative one should use : *Biterm Topic Model* [[1]](#1)).
 
 - To be able to run the scraping part, a *secret.json* file is needed.
 
@@ -20,3 +20,9 @@ Xiaohui Yan et al. ( 2013).
 A biterm topic model for short texts
 Proceedings of the 22nd international conference on World Wide Web - Pages 1445–1456.
 https://doi.org/10.1145/2488388.2488514
+
+<a id="2">[2]</a> 
+Blei D. et al. (2003).
+Latent Dirichlet Allocation (LDA)
+Journal of Machine Learning Research - Pages 993-1022.
+https://www.seas.upenn.edu/~cis520/lectures/LDA.pdf
