@@ -8,7 +8,7 @@ The notebook has three main parts :
 
 2) Naive Bayes classification for positive and negative reviews recognition
 
-3) Latent Dirichlet Allocation for topic modeling (Not a suitable method for this application as mentioned in presentation - as an alternative one should use : *Biterm Topic Model*[[1]](#1)).
+3) Latent Dirichlet Allocation for topic modeling (Not a suitable method for this application as mentioned in presentation - as an alternative one should use : *Biterm Topic Model* [[1]](#1)).
 
 - To be able to run the scraping part, a *secret.json* file is needed.
 
